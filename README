@@ -1,0 +1,3 @@
+run this
+
+g++ -o uva_100 uva_100.cpp
